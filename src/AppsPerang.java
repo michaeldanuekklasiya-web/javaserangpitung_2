@@ -20,9 +20,13 @@ public class AppsPerang {
         System.out.println();
         pitung.display();
         jakaSembung.Attack(pitung);
+        System.out.println();
         pitung.Attack(jakaSembung);
+        System.out.println();
         jakaSembung.Attack(pitung);
+        System.out.println();
         pitung.Attack(jakaSembung);
+
     }
 
 }
