@@ -48,7 +48,7 @@ public class Jagoan {
         System.out.println("Level    : " + this.level);
         System.out.println("Health   : " + this.getHealth() + "/" + this.maxHealth());
         System.out.println("Defence  : " + this.baseDefense);
-        System.out.println("Attack  : " + this.getAttackPower());
+        System.out.println("Attack   : " + this.getAttackPower());
     }
 
     public void defence(int damage){
